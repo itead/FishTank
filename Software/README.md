@@ -14,8 +14,8 @@ and ultraviolet (Uv). Because this project needs to realize these functions and
 set a timer, a lot of nextion components has been used inside.But do not worry,
 these components are set separately according to the function. I believe as long
 as you understand one function implementation way, you will naturally understand
-the others.In addition, the program increases the AT instruction set.Realization 
-mechanism of some error handling in the process of attention
+the others.In addition, the program increases the AT instruction set.You must pay
+attention to the realization mechanism for error handling in the program.
 	
 # Folder Description
 
